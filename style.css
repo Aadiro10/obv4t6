@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(rgb(182, 125, 39), rgb(250, 250, 8));
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
+}
+.header_div{
+    background-color: rgb(40, 70, 95);
+    color: blue;
+}
+.header_div p{
+font-family:'Roboto',sans-serif;
+color: mediumblue;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+button{
+    font-family:'Roboto',sans-serif ;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: mediumvioletred;
+    color: wheat;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+
+}
